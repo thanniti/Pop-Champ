@@ -1,1 +1,1 @@
-# http://https://github.com/thanniti/Pop-Champ/edit/main/README.md
+# https://thanniti.github.io/Pop-Champ/
